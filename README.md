@@ -1,4 +1,4 @@
-HELLO THERE :wave:
+HELLO THERE :wave:, I am
 <h3 align="center"><a href="https://hud0shnik.github.io/">
    <img alt="Aryan Sharma" src="https://readme-typing-svg.herokuapp.com/?lines=Aryan+Sharma;Computer+Science+Student+@+VUA&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
