@@ -1,4 +1,7 @@
-### Hi there 👋
+HELLO THERE :wave:
+<h3 align="center"><a href="https://hud0shnik.github.io/">
+   <img alt="Aryan Sharma" src="https://readme-typing-svg.herokuapp.com/?lines=Aryan+Sharma;Computer+Science+Student+@+VUA&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
 
 
 <img alt="Aryan Sharma" src="http://github-readme-streak-stats.herokuapp.com?user=Aryansharma28&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
