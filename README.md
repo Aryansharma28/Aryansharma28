@@ -1,6 +1,6 @@
 HELLO THERE :wave:, I am
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Aryan Sharma" src="https://readme-typing-svg.herokuapp.com/?lines=Aryan+Sharma;Computer+Science+Student+@+VUA&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Aryan Sharma" src="https://readme-typing-svg.herokuapp.com/?lines=Aryan+Sharma;Computer+Science+Grad+from+VUA&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 <p align="center">
  <img width="49.5%" height="150px" alt="Aryans Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aryansharma28&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
@@ -10,8 +10,6 @@ HELLO THERE :wave:, I am
 <p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryansharma28&theme=monokai&layout=compact"/></p>
-
-
 
 
 <div id="badges" align="center">
