@@ -4,8 +4,13 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=68C3D4&center=true&vCenter=true&width=520&lines=Computer+Science+Grad+from+VU+Amsterdam;Exploring+AI+Agents+%26+Backend+Engineering;Learning+Something+New+Every+Day;Trying+to+Build+an+Honest+Life+in+Tech+🌍">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=68C3D4&center=true&vCenter=true&width=720&height=50&lines=Computer+Science+Grad+from+VU+Amsterdam;Exploring+AI+Agents+and+Backend+Engineering;Learning+Something+New+Every+Day;Trying+to+Build+an+Honest+Life+in+Tech"
+    alt="Typing SVG"
+  />
 </p>
+
+
 
 ---
 
