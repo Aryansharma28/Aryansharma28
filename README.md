@@ -28,15 +28,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,cpp,react,angular,js,ts,nodejs,vite,python,docker,mysql,nginx,git,linux&theme=light" />
 </p>
 
----
-
-### 📊 GitHub Overview
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryansharma28&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&text_color=FFFFFF" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Aryansharma28&theme=react&hide_border=true&background=1F222E&ring=68C3D4&fire=68C3D4&currStreakNum=FFE8D1" />
-</p>
-
----
 
 ### 🧩 Things I'm Exploring
 | Topic | Why It Matters to Me |
