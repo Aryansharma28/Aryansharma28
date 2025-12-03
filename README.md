@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Aryan Sharma</h1>
-<h3 align="center">Just a curious guy learning how to build good things — one project at a time 🚀</h3>
+<h3 align="center">Just a curious guy learning how to build good things, one project at a time 🚀</h3>
 
 ---
 
